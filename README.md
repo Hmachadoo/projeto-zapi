@@ -42,7 +42,7 @@ ZAPI_INSTANCE_ID=seu_id_da_instancia_zapi
 
 ZAPI_TOKEN=seu_token_da_zapi
 
-ZAPI_SECURITY_TOKEN = sey_token_de_seguranca_do_zapi
+ZAPI_SECURITY_TOKEN = seu_token_de_seguranca_do_zapi
 
 ⚙️ Como rodar o projeto
 
